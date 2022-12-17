@@ -1,0 +1,13 @@
+.title-font {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 3rem;
+    color: aliceblue;
+}
+
+.fondo {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/fondomonta.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
